@@ -32,7 +32,7 @@
 		{ R15, R14, R13, R12, R11, R10 }, \
 		{ R25, R24, R23, R22, R21, R20 }, \
 		{ R35, R34, R33, R32, R31, R30 }, \
-        { KC_NO, KC_NO, KC_NO, R43, R44, R45} \
+        { KC_NO, KC_NO, KC_NO, R45, R44, R43} \
 	}
 #else
 // Keymap with right side flipped
